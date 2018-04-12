@@ -1,0 +1,11 @@
+
+.item{
+    text-align:center;
+    font-size:0.35rem;
+    padding: 0.2rem 0rem;
+    border-bottom: 0.03rem solid #DFDFDF; 
+}
+.selected{
+    color:#FF6D03;
+    border-bottom: 0.04rem solid #FF6D03; 
+}

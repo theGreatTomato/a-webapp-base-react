@@ -1,0 +1,32 @@
+.container{
+    height: 5rem;
+}
+.header{
+    text-align: center;
+    line-height: 1rem;
+    letter-spacing: 0.07rem;/*文字间隔*/
+    font-size:0.40rem;
+    font-weight: 600;
+}
+.itemContainer {
+    margin: 0.1rem;
+    border-radius: 0.2rem;
+    text-align: center;
+    border: 0.03rem solid #DFDFDF;
+    margin-top: 0rem;
+}
+.imgStyle {
+    display: block;
+    width: 1.2rem;
+    height: 1.2rem;
+    margin: 0.2rem auto;
+}
+.div{
+    font-size: 0.3rem;
+    font-weight: 600;
+}
+.p{
+    margin-top: 0.1rem;
+    color:#9C9C9C;
+    font-size: 10px;
+}

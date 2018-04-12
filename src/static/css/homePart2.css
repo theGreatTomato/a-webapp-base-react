@@ -1,0 +1,21 @@
+
+.container{
+    border-radius: 0.2rem;
+    border: 1px solid #DFDFDF;
+}
+
+.helpyou{
+    text-align: center;
+    vertical-align: center;
+    line-height: 2.5rem;
+    height: 2.5rem;
+    font-size: 0.75rem;
+    border-bottom: 1px solid #DFDFDF;
+    /*background-image:url 这里还需要设置背景图片*/
+   
+}
+.need{
+    text-align: center;
+    font-size: 0.35rem;
+    padding: 0.2rem 0;
+}

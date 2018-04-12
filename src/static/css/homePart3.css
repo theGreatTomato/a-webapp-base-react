@@ -1,0 +1,33 @@
+.container {/*  */
+    height: 5.4rem;    
+    overflow: hidden;
+}
+.header {/* 0.2*2+0.4 = 0.8 */
+    padding: 0.2rem 0.25rem;
+    font-size: 0.4rem;
+    position: relative;
+    border-bottom: 1px solid #DFDFDF;
+}
+.more {
+    position: absolute;
+    right: 0.25rem;
+    top:0.24rem;/* 这个值是header的高 - 自身font zize /2 */
+    font-size: 0.32rem;
+    color: black;
+}
+.medicine {
+    width: 4.98rem;
+    height: 4.6rem;
+    float: left;
+    border-right: 1px solid #DFDFDF;
+}
+.accident {
+    width: 4.98rem;
+    height: 2.3rem;
+    border-bottom: 1px solid #DFDFDF;
+}
+.elder {
+    width: 4.98rem;
+    height: 2.3rem;
+}
+/* 左右的边框为0.25rem ！！！ */

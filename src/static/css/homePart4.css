@@ -1,0 +1,8 @@
+/* 左右的边框为0.25rem ！！！ */
+.item {
+    margin: 0.2rem 0.25rem;
+    background: aqua;
+    height: 4.5rem;
+    float: left; 
+    width: 2.8333rem;
+}   

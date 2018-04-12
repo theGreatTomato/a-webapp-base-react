@@ -1,0 +1,17 @@
+.buttonStyle {
+    color:#fff;
+    width: 100%;
+    background: #0080ff;
+    text-decoration: none;
+}
+.container{
+    position: fixed;
+    bottom:  0.8rem;
+    padding: 0.25rem; 
+    width: 95.1%;
+}
+.active {
+    color:#fff;
+    text-decoration: none;
+    background: #98cbf2;   
+}

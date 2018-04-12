@@ -1,0 +1,18 @@
+.fixed{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 1.5rem;
+    width:100%;
+    background: white;
+}
+.iconContainer{
+    text-align: center;
+    padding-top: 0.15rem;
+    color: black;
+    
+}
+.icon{
+    width: 0.6rem;
+    height: 0.6rem;
+}

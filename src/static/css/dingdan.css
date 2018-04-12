@@ -1,0 +1,66 @@
+.container {
+    margin: 0.25rem;
+    border-radius: 0.1rem;
+    border: 0.02rem solid #DFDFDF;
+    padding: 0rem 0.2rem;
+    background: #fff;
+    overflow: hidden;
+}
+
+.header{
+    font-size: 0.4rem;
+    line-height: 0.8rem;
+    border-bottom: 0.02rem solid #DFDFDF;
+    vertical-align: middle;
+}
+.payStatus {
+    float: right;
+    background: #fa6b00;
+    color:#FFF;
+    padding: 0rem 0.22rem;
+    font-size: 0.3rem;
+    line-height: 0.5rem;
+    margin-top: 0.15rem;
+    border-radius: 0.1rem;
+}
+.content{
+    padding: 0.5rem 0rem;
+}
+.h1{
+    font-size: 0.55rem;
+    font-weight: 540;
+    letter-spacing: 0.04rem;
+    color:'#0784ff';
+}
+.describe{
+    font-size: 0.25rem;
+    letter-spacing: 0.04rem;
+    color:#9a9a9a;
+    padding: 0.3rem 0rem;    
+}
+
+.flex{
+    padding: 0.5rem 0rem;
+}
+.flex .oringe{
+    background: #ff8a00;
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 0.75rem;
+    text-align: center;
+    line-height: 1.5rem;
+    font-size: 0.4rem;
+    color: #fff;
+    margin: 0 auto;
+}
+.flex .blue{
+    background: #0080ff;
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 0.75rem;
+    text-align: center;
+    line-height: 1.5rem;
+    font-size: 0.4rem;
+    color: #fff;
+    margin: 0 auto;
+}
